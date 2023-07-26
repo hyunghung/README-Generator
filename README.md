@@ -14,14 +14,13 @@
   - [Questions](#questions)
   
   ## Installation
-  All you have to do is copy the repository and install it within your local machine. After cloning the repository, open the terminal for the code and run "node index.js" and you will be prompted with series of questions to answer.  
+  All you have to do is copy the repository and install it within your local machine. After cloning the repository, open the terminal for the code and run "node index.js" and you will be prompted with series of questions to answer. 
   
   ## Usage
-  Answer the questions however way you want to.  
+  Answer the questions however way you want to. 
   
   ## License
     [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-    
     [MIT](https://opensource.org/licenses/MIT)
     
   
