@@ -1,9 +1,9 @@
 # README Generator 
 
-  [![License: GNU Lesser General Public License v3.0](https://img.shields.io/badge/License-GNU Lesser General Public License v3.0-blue.svg)](https://opensource.org/licenses/GNU Lesser General Public License v3.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  Makes a README.md for people who are lazy to make their own OR they don't know how to make one 
+  The project that I made takes in the user's input and creates a README.md file for them so that they don't have to make one. With this, rather than having to make something by scratch, the user can answer series of questions that will format and create for them a structured README file.
   
   ## Table of Contents
   - [Installation](#installation)
@@ -14,21 +14,21 @@
   - [Questions](#questions)
   
   ## Installation
-  Clone the repository onto a local machine and run it within a terminal using node index.js  
+  All you have to do is copy the repository and install it within your local machine. After cloning the repository, open the terminal for the code and run "node index.js" and you will be prompted with series of questions to answer. 
   
   ## Usage
-  Use it whenever you need to make one  
+  Answer the questions however way you want to. 
   
   ## License
-    [![License: GNU Lesser General Public License v3.0](https://img.shields.io/badge/License-GNU Lesser General Public License v3.0-blue.svg)](https://opensource.org/licenses/GNU Lesser General Public License v3.0)
-    [GNU Lesser General Public License v3.0](https://opensource.org/licenses/GNU Lesser General Public License v3.0)
+    [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+    [MIT](https://opensource.org/licenses/MIT)
     
   
   ## Contributing
   Me, myself and I 
   
   ## Tests
-  my laptop running it over and over :D 
+  My personal computer ran all the test until the formatting was correct  
   
   ## Questions
   For additional questions, feel free to reach out via GitHub or email:

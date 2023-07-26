@@ -2,9 +2,10 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== "None") {
-    return `[![License: ${license}](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license})`
-  }
-  else {
+    // Replace spaces with hyphens in the license name for URL
+    const licenseURL = license.split(' ').join('-');
+    return `[![License: ${license}](https://img.shields.io/badge/License-${licenseURL}-blue.svg)](https://opensource.org/licenses/${licenseURL})`
+  } else {
     return ""
   }
 }
@@ -13,9 +14,10 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== "None") {
-    return `[${license}](https://opensource.org/licenses/${license})`
-  }
-  else {
+    // Replace spaces with hyphens in the license name for URL
+    const licenseURL = license.split(' ').join('-');
+    return `[${license}](https://opensource.org/licenses/${licenseURL})`
+  } else {
     return ""
   }
 }
